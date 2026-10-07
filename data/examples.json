@@ -1,1 +1,152 @@
-
+[
+  {
+    "X": {
+      "players": [
+        {
+          "player_id": 1,
+          "starting_settlement_1": "6 L, 3 C, 11 C",
+          "starting_settlement_2": "9 L, 10 W, 11 O"
+        },
+        {
+          "player_id": 2,
+          "starting_settlement_1": "5 W, 8 O, 10 W",
+          "starting_settlement_2": "4 L, 5 S, 11 O"
+        },
+        {
+          "player_id": 3,
+          "starting_settlement_1": "5 S, 6 S, 12 W",
+          "starting_settlement_2": "8 O, 4 S, 3 C"
+        },
+        {
+          "player_id": 4,
+          "starting_settlement_1": "6 O, 9 L, 3 L",
+          "starting_settlement_2": "4 L, 8 L, 10 S"
+        }
+      ]
+    },
+    "y": {
+      "predicted_winner": 3,
+      "reasoning": "Player 3 has the most optimal balance of high-probability number tokens and essential resource synergies to outpace competitors."
+    }
+  },
+  {
+    "X": {
+      "players": [
+        {
+          "player_id": 1,
+          "starting_settlement_1": "6 W, 9 O, 10 O",
+          "starting_settlement_2": "8 W, 10 L, 0 2L"
+        },
+        {
+          "player_id": 2,
+          "starting_settlement_1": "5 C, 8 S, 10 O",
+          "starting_settlement_2": "8 W, 4 L, 3 W"
+        },
+        {
+          "player_id": 3,
+          "starting_settlement_1": "5 C, 6 W, 11 O",
+          "starting_settlement_2": "5 C, 9 W, 10 L"
+        },
+        {
+          "player_id": 4,
+          "starting_settlement_1": "4 C, 9 W, 11 O",
+          "starting_settlement_2": "6 L, 4 C, 3 S"
+        }
+      ]
+    },
+    "y": {
+      "predicted_winner": 1,
+      "reasoning": "Player 1 has strong access to the crucial Ore-Wheat strategy with high probability rolls, ensuring early cities."
+    }
+  },
+  {
+    "X": {
+      "players": [
+        {
+          "player_id": 1,
+          "starting_settlement_1": "5 L, 4 L, 10 C",
+          "starting_settlement_2": "6 W, 3 L, 11 S"
+        },
+        {
+          "player_id": 2,
+          "starting_settlement_1": "5 W, 8 O, 10 C",
+          "starting_settlement_2": "4 L, 9 W, 11 S"
+        },
+        {
+          "player_id": 3,
+          "starting_settlement_1": "6 S, 9 W, 3 L",
+          "starting_settlement_2": "8 O, 10 C, 0 3G"
+        },
+        {
+          "player_id": 4,
+          "starting_settlement_1": "5 L, 6 W, 11 S",
+          "starting_settlement_2": "8 O, 4 C, 3 L"
+        }
+      ]
+    },
+    "y": {
+      "predicted_winner": 2,
+      "reasoning": "Player 2 secures the best early game expansion capabilities with high probability Wood and Clay access while maintaining decent Wheat for scaling."
+    }
+  },
+  {
+    "X": {
+      "players": [
+        {
+          "player_id": 1,
+          "starting_settlement_1": "5 C, 6 L, 11 O",
+          "starting_settlement_2": "8 S, 3 C, 0 3G"
+        },
+        {
+          "player_id": 2,
+          "starting_settlement_1": "6 W, 9 L, 3 C",
+          "starting_settlement_2": "5 S, 8 S, 10 C"
+        },
+        {
+          "player_id": 3,
+          "starting_settlement_1": "9 L, 10 C, 11 O",
+          "starting_settlement_2": "4 W, 8 S, 10 W"
+        },
+        {
+          "player_id": 4,
+          "starting_settlement_1": "5 C, 9 S, 10 W",
+          "starting_settlement_2": "8 S, 4 L, 3 O"
+        }
+      ]
+    },
+    "y": {
+      "predicted_winner": 2,
+      "reasoning": "Player 2 commands excellent diverse resource generation across multiple high-yield hexes (6, 9, 8), minimizing reliance on maritime trade."
+    }
+  },
+  {
+    "X": {
+      "players": [
+        {
+          "player_id": 1,
+          "starting_settlement_1": "6 W, 9 S, 10 O",
+          "starting_settlement_2": "8 S, 10 L, 0 2S"
+        },
+        {
+          "player_id": 2,
+          "starting_settlement_1": "5 O, 6 W, 11 O",
+          "starting_settlement_2": "5 S, 9 L, 10 L"
+        },
+        {
+          "player_id": 3,
+          "starting_settlement_1": "6 W, 4 C, 3 S",
+          "starting_settlement_2": "9 L, 11 O, 0 D"
+        },
+        {
+          "player_id": 4,
+          "starting_settlement_1": "5 O, 8 L, 10 O",
+          "starting_settlement_2": "4 C, 9 L, 2 C"
+        }
+      ]
+    },
+    "y": {
+      "predicted_winner": 2,
+      "reasoning": "Player 2 has an incredibly balanced setup with dual Ore placements paired with a high-probability Wheat tile, perfectly supporting a development card heavy strategy."
+    }
+  }
+]
