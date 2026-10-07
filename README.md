@@ -2,8 +2,6 @@
 
 ## UMLs
 
-<img width="528" height="889" alt="mermaid2" src="https://github.com/user-attachments/assets/6f0f2379-3e7e-44a0-bfdd-354b41794bd9" />
-
 <summary>Mermaid UML</summary>
 
 <details>
@@ -36,9 +34,6 @@ graph TD
 </details>
 
 ## Sequence Diagram
-
-<img width="1574" height="727" alt="mermaid_seq1" src="https://github.com/user-attachments/assets/6e1b7165-dc81-4d86-b13d-c21e669c838d" />
-
 
 <details>
 <summary>Mermaid Sequence Diagram</summary>
