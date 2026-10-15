@@ -6,7 +6,7 @@ This information system is designed to demonstrate the capabilities of generativ
 ## Repository Structure
 * `/data/` – Directory containing the testing data (X, y pairs).
 * `/prompts/` – Directory containing the testing prompts submitted to the AI agent.
-* `catan_prediction.ipynb` – The source code and working system prototype, adapted for the Google Colab environment.
+* `Catan_winner_prediction_simple.ipynb` – The source code and working system prototype, adapted for the Google Colab environment.
 
 ## UMLs
 
